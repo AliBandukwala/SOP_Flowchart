@@ -13,9 +13,10 @@ The app is created using ReactJS. The data is managed by Redux state management 
 And Flowchart was created using react-flow-renderer library.
 
 # Possible improvements given time
-* add more tasks with a Add Floating Action Button (FAB)
+* add more tasks with a Add Floating Action Button (FAB).
 * Change label name for all the nodes instead of just first node.
-* Use MUI styling API instead of inline styling
+* Make the app responsive for mobile devices.
+* Use MUI styling API instead of inline styling.
 
 
 
